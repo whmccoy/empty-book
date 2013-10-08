@@ -8,7 +8,7 @@
   </metadata>
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
-    <item href="module1.html" id="item1" media-type="application/xhtml+xml"/>
+    <item href="3d8b885d-cbd9-4bf3-b35a-0d5c2dc2be92" id="3d8b885d-cbd9-4bf3-b35a-0d5c2dc2be92" media-type="application/xhtml+xml"/><item href="module1.html" id="item1" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
     <itemref idref="item1" linear="yes"/>
